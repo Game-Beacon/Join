@@ -1,6 +1,6 @@
 # Join
 
-麻煩請到issue那邊開一個新的issue.
+麻煩請到issue那邊開一個新的issue. 那邊會由我們的組員審核並邀請你加入!
 
 ## License
 
