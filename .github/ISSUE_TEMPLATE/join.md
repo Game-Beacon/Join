@@ -10,6 +10,8 @@ assignees: ''
 
 Discord ID:
 
+Git ID:
+
 入團原因：
 
 入團期望：
