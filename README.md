@@ -15,11 +15,11 @@
 
 GitHub的會員能見度是預設為`private`, 請把它設置為`public`.
 
-<p>
+<p algin="center">
 <img src="./etc/public-membership/people.png" width="577" height="265">
 </p>
 
-<p>
+<p algin="center">
 <img src="./etc/public-membership/public.png" width="692" height="196">
 </p>
 
